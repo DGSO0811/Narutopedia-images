@@ -1,0 +1,5 @@
+ATK - Skills somente para ATAQUE;
+
+DEF - Skills somente para DEFESA;
+
+ATK_DEF - Skills que servem tanto para ATAQUE quanto para DEFESA.

@@ -1,0 +1,1 @@
+O sobrenome dos personagens é o nome do Clã que ele pertence.
